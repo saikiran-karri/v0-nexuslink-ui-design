@@ -122,8 +122,6 @@ Feedback Loop (Learning System)
 
 ## 🖼️ Screenshots
 
-*Add your screenshots here*
-
 ![Dashboard](your-dashboard-image-link)
 ![Driver View](your-driver-view-image-link)
 ![API Panel](your-api-panel-image-link)
